@@ -1,0 +1,101 @@
+.about-section {
+  padding: 100px 0;
+}
+
+.section-title {
+  font-size: 2.5rem;
+  margin-bottom: 40px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.section-title::after {
+  content: '';
+  height: 1px;
+  background: var(--border-light);
+  flex-grow: 1;
+  max-width: 300px;
+}
+
+.about-content {
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+  gap: 60px;
+  align-items: center;
+}
+
+.about-text {
+  padding: 32px;
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: var(--text-secondary);
+}
+
+.about-image-container {
+  position: relative;
+  width: 100%;
+  max-width: 350px;
+  margin: 0 auto;
+}
+
+.about-image-wrapper {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1/1;
+  border-radius: var(--border-radius-md);
+  background-color: var(--bg-secondary);
+  overflow: hidden;
+  z-index: 2;
+}
+
+.placeholder-image {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg-secondary);
+  font-size: 100px;
+  font-family: 'Outfit';
+}
+
+.image-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--accent-primary);
+  opacity: 0.2;
+  transition: var(--transition-normal);
+  z-index: 3;
+}
+
+.about-image-wrapper:hover .image-overlay {
+  opacity: 0;
+}
+
+.image-frame {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 100%;
+  height: 100%;
+  border: 2px solid var(--accent-secondary);
+  border-radius: var(--border-radius-md);
+  z-index: 1;
+  transition: var(--transition-normal);
+}
+
+.about-image-container:hover .image-frame {
+  top: 10px;
+  left: 10px;
+}
+
+@media (max-width: 768px) {
+  .about-content {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+}
