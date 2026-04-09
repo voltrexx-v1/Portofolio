@@ -195,14 +195,14 @@
   }
   .badge-top-right {
     top: -30px;
-    right: -20px;
+    right: 10px;
   }
   .badge-bottom-left {
     bottom: -10px;
-    left: -20px;
+    left: 0px;
   }
   .badge-bottom-right {
     bottom: -40px;
-    right: 0px;
+    right: 15px;
   }
 }

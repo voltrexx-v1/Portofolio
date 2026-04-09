@@ -135,5 +135,15 @@
   }
   .mobile-menu {
     display: block;
-  }
+}
+
+/* Mobile Menu background overrides for reduced transparency */
+.navbar .mobile-menu.glass-panel {
+  background: rgba(10, 10, 10, 0.95);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+:root.light-mode .navbar .mobile-menu.glass-panel {
+  background: rgba(255, 255, 255, 0.95);
 }
