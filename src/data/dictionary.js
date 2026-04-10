@@ -58,7 +58,7 @@ export const dict = {
       ]
     },
     contact: {
-      title: "Get In Touch",
+      title: "Contact",
       subtitle: "Let's work together",
       heading: "Let's Connect",
       text: "I'm currently looking for new opportunities. Whether you have a question, a project idea, or just want to say hi, I'll try my best to get back to you!",
