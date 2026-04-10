@@ -16,8 +16,8 @@ export const dict = {
     },
     about: {
       title: "About Me",
-      description1: "I am a passionate cyber security enthusiast and web developer dedicated to building secure, dynamic, and resilient user experiences.",
-      description2: "With a strong foundation in modern web technologies and penetration testing, I strive to build scalable applications that are not only performant but also highly secure against vulnerabilities."
+      description1: "A Cyber Security & Web Developer focused on building modern, secure, and scalable web applications.",
+      description2: "Combining coding proficiency with penetration testing techniques to ensure every digital product is immune to various security vulnerabilities. High Performance. Scalable Apps. Clean Code."
     },
     skills: {
       title: "Skills & Languages",
@@ -86,8 +86,8 @@ export const dict = {
     },
     about: {
       title: "Tentang Saya",
-      description1: "Saya adalah pegiat keamanan siber (cyber security) dan pengembang web yang berdedikasi untuk membangun pengalaman pengguna yang aman, dinamis, dan tangguh.",
-      description2: "Dengan fondasi yang kuat pada teknologi web modern serta pengujian keamanan (penetration testing), saya berfokus membangun aplikasi berskala besar yang tak sekadar cepat, tapi juga kebal terhadap berbagai celah kerentanan."
+      description1: "Cyber Security & Web Developer yang berfokus pada pembangunan aplikasi web modern yang aman dan skalabel.",
+      description2: "Memadukan kemahiran coding dengan teknik penetration testing untuk memastikan setiap produk digital kebal terhadap berbagai celah keamanan. High Performance. Scalable Apps. Clean Code."
     },
     skills: {
       title: "Keahlian & Bahasa",
