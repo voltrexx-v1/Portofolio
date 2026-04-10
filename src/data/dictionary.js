@@ -16,8 +16,8 @@ export const dict = {
     },
     about: {
       title: "About Me",
-      description1: "I am a passionate software developer dedicated to creating intuitive, dynamic, and engaging user experiences.",
-      description2: "With a strong foundation in modern web technologies, I strive to build scalable applications that not only look great but perform flawlessly."
+      description1: "I am a passionate cyber security enthusiast and web developer dedicated to building secure, dynamic, and resilient user experiences.",
+      description2: "With a strong foundation in modern web technologies and penetration testing, I strive to build scalable applications that are not only performant but also highly secure against vulnerabilities."
     },
     skills: {
       title: "Skills & Languages",
@@ -86,8 +86,8 @@ export const dict = {
     },
     about: {
       title: "Tentang Saya",
-      description1: "Saya adalah seorang pengembang perangkat lunak yang berdedikasi untuk menciptakan pengalaman interaktif, dinamis, dan menarik bagi pengguna.",
-      description2: "Dengan fondasi yang kuat di teknologi web modern, saya membangun aplikasi terjangkau yang tidak hanya terlihat menarik secara visual tapi juga memiliki performa yang tinggi."
+      description1: "Saya adalah pegiat keamanan siber (cyber security) dan pengembang web yang berdedikasi untuk membangun pengalaman pengguna yang aman, dinamis, dan tangguh.",
+      description2: "Dengan fondasi yang kuat pada teknologi web modern serta pengujian keamanan (penetration testing), saya berfokus membangun aplikasi berskala besar yang tak sekadar cepat, tapi juga kebal terhadap berbagai celah kerentanan."
     },
     skills: {
       title: "Keahlian & Bahasa",
