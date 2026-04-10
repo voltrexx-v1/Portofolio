@@ -128,7 +128,7 @@ export const dict = {
       ]
     },
     contact: {
-      title: "Hubungi Saya",
+      title: "Kontak",
       subtitle: "Mari bekerja sama",
       heading: "Mari Lebih Dekat",
       text: "Saya sedang mencari peluang baru. Baik Anda memiliki pertanyaan, ide proyek, atau sekadar ingin menyapa, saya akan berusaha sebaik mungkin untuk membalas pesan Anda!",
