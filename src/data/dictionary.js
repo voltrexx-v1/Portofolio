@@ -9,8 +9,8 @@ export const dict = {
     },
     hero: {
       greeting: "Hello, I'm",
-      role: "Software Developer",
-      description: "I build modern web applications and solve complex problems with elegant code.",
+      role: "Cyber Security & Web Developer",
+      description: "I specialize in penetration testing and building secure, modern web applications with elegant code.",
       cta_primary: "View Projects",
       cta_secondary: "Contact Me"
     },
@@ -79,8 +79,8 @@ export const dict = {
     },
     hero: {
       greeting: "Halo, Saya",
-      role: "Pengembang Perangkat Lunak",
-      description: "Saya membangun aplikasi web modern dan memecahkan masalah kompleks dengan kode yang elegan.",
+      role: "Cyber Security & Web Developer",
+      description: "Saya memiliki spesialisasi dalam pengujian keamanan (penetration testing) dan membangun aplikasi web modern yang aman dengan kode yang elegan.",
       cta_primary: "Lihat Proyek",
       cta_secondary: "Hubungi Saya"
     },
