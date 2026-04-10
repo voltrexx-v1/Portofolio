@@ -137,6 +137,6 @@ export const dict = {
       message: "Pesan",
       send: "Kirim Pesan"
     },
-    footer: "Dibuat dengan React & Vite. Hak cipta dilindungi."
+    footer: "© 2026 Muhammad Arief Nur Azziz. Built with using React & Vite."
   }
 };
