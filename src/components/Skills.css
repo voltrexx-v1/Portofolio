@@ -36,6 +36,15 @@
 .skill-info h3 {
   font-size: 1.2rem;
   font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+
+.skill-percent {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--accent-primary);
+  margin-left: 8px;
 }
 
 .skill-category {

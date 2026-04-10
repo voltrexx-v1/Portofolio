@@ -13,7 +13,7 @@ export default function Skills({ t }) {
           {t.items.map((skill, index) => (
             <div key={index} className="skill-card glass-panel animate-fade-up" style={{transitionDelay: `${(index % 3) * 100}ms`}}>
               <div className="skill-info">
-                <h3>{skill.name}</h3>
+                <h3>{skill.name} <span className="skill-percent">{skill.level}%</span></h3>
                 <span className="skill-category">{skill.category}</span>
               </div>
               <div className="skill-bar-bg">
