@@ -26,7 +26,7 @@ export default function Navbar({ lang, setLang, theme, setTheme, t }) {
     { name: t.home, href: '#home' },
     { name: t.about, href: '#about' },
     { name: t.skills, href: '#skills' },
-    { name: t.portfolio, href: '#portfolio' },
+    { name: t.portfolio, href: '#portofolio' },
     { name: t.contact, href: '#contact' },
   ];
 
@@ -34,7 +34,7 @@ export default function Navbar({ lang, setLang, theme, setTheme, t }) {
     <header className={`navbar ${isScrolled ? 'scrolled glass-panel' : ''}`}>
       <div className="nav-container">
         <a href="#home" className="logo">
-          <span className="gradient-text">P</span>ortfolio.
+          <span className="gradient-text">P</span>ortfolio
         </a>
 
         {/* Desktop Menu */}

@@ -67,14 +67,14 @@ export const dict = {
       message: "Message",
       send: "Send Message"
     },
-    footer: "Built with React & Vite. All rights reserved."
+    footer: "© 2026 Muhammad Arief. Built with using React & Vite."
   },
   id: {
     nav: {
       home: "Beranda",
       about: "Tentang",
       skills: "Keahlian",
-      portfolio: "Portofolio",
+      portfolio: "Project",
       contact: "Kontak"
     },
     hero: {
@@ -115,14 +115,14 @@ export const dict = {
         },
         {
           title: "Untitled",
-          description: "Coming soon...",
-          tech: ["Coming soon..."],
+          description: "Segera hadir...",
+          tech: ["Segera hadir..."],
           links: { github: "#", live: "#" }
         },
         {
           title: "Untitled",
-          description: "Coming soon...",
-          tech: ["Coming soon..."],
+          description: "Segera hadir...",
+          tech: ["Segera hadir..."],
           links: { github: "#", live: "#" }
         }
       ]
@@ -137,6 +137,6 @@ export const dict = {
       message: "Pesan",
       send: "Kirim Pesan"
     },
-    footer: "© 2026 Muhammad Arief. Built with using React & Vite."
+    footer: "© 2026 Muhammad Arief. Dibuat menggunakan React & Vite."
   }
 };
