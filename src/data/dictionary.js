@@ -4,7 +4,7 @@ export const dict = {
       home: "Home",
       about: "About",
       skills: "Skills",
-      portfolio: "Portfolio",
+      portfolio: "Projects",
       contact: "Contact"
     },
     hero: {
