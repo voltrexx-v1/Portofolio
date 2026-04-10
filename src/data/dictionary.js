@@ -23,13 +23,13 @@ export const dict = {
       title: "Skills & Languages",
       subtitle: "Technologies I work with",
       items: [
-        { name: "Golang", level: 90, category: "Backend" },
-        { name: "JavaScript", level: 85, category: "Frontend/Backend" },
-        { name: "React / Vite", level: 80, category: "Frontend" },
+        { name: "Golang", level: 75, category: "Backend" },
+        { name: "JavaScript", level: 60, category: "Frontend/Backend" },
+        { name: "React / Vite", level: 40, category: "Frontend" },
         { name: "HTML & CSS", level: 95, category: "Frontend" },
-        { name: "Python", level: 85, category: "Backend" },
-        { name: "SQL / PostgreSQL", level: 75, category: "Database" },
-        { name: "Git & GitHub", level: 88, category: "Tools" }
+        { name: "Python", level: 35, category: "Backend" },
+        { name: "SQL / PostgreSQL", level: 15, category: "Database" },
+        { name: "Git & GitHub", level: 65, category: "Tools" }
       ]
     },
     portfolio: {
@@ -93,13 +93,13 @@ export const dict = {
       title: "Keahlian & Bahasa",
       subtitle: "Teknologi yang saya kuasai",
       items: [
-        { name: "Golang", level: 90, category: "Backend" },
-        { name: "JavaScript", level: 85, category: "Frontend/Backend" },
-        { name: "React / Vite", level: 80, category: "Frontend" },
+        { name: "Golang", level: 75, category: "Backend" },
+        { name: "JavaScript", level: 60, category: "Frontend/Backend" },
+        { name: "React / Vite", level: 40, category: "Frontend" },
         { name: "HTML & CSS", level: 95, category: "Frontend" },
-        { name: "Python", level: 85, category: "Backend" },
-        { name: "SQL / PostgreSQL", level: 75, category: "Database" },
-        { name: "Git & GitHub", level: 88, category: "Alat" }
+        { name: "Python", level: 35, category: "Backend" },
+        { name: "SQL / PostgreSQL", level: 15, category: "Database" },
+        { name: "Git & GitHub", level: 65, category: "Alat" }
       ]
     },
     portfolio: {
