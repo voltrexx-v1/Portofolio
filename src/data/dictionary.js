@@ -21,7 +21,7 @@ export const dict = {
     },
     skills: {
       title: "Skills & Languages",
-      subtitle: "Technologies I work with",
+      subtitle: "Programming Language I work with",
       items: [
         { name: "Golang", level: 75, category: "Backend" },
         { name: "JavaScript", level: 60, category: "Frontend/Backend" },
@@ -44,15 +44,15 @@ export const dict = {
           links: { github: "#", live: "#" }
         },
         {
-          title: "Premium Portfolio Website",
-          description: "A highly interactive, dynamic frontend web application built with React, featuring glassmorphism, modern animations, and multi-language support (i18n).",
-          tech: ["React", "Vite", "Vanilla CSS"],
+          title: "Untitled",
+          description: "Coming soon...",
+          tech: ["Coming soon..."],
           links: { github: "#", live: "#" }
         },
         {
-          title: "Task Management API",
-          description: "RESTful API built with Golang and PostgreSQL. Features user authentication, JWT tokens, and CRUD operations for tasks and categories.",
-          tech: ["Golang", "PostgreSQL", "JWT"],
+          title: "Untitled",
+          description: "Coming soon...",
+          tech: ["Coming soon..."],
           links: { github: "#", live: "#" }
         }
       ]
@@ -91,7 +91,7 @@ export const dict = {
     },
     skills: {
       title: "Keahlian & Bahasa",
-      subtitle: "Teknologi yang saya kuasai",
+      subtitle: "Bahasa Pemrograman yang saya kuasai",
       items: [
         { name: "Golang", level: 75, category: "Backend" },
         { name: "JavaScript", level: 60, category: "Frontend/Backend" },

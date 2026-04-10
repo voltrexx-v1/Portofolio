@@ -52,8 +52,8 @@ export default function Hero({ t }) {
               <pre><code>
 {`const developer = {
   name: "Muhammad Arief Nur Azziz",
-  role: "Software Dev",
-  passion: "Creating UI/UX",
+  role: "Cyber Security & Web Developer",
+  passion: "Penetration Testing",
   status: "Available"
 };`}
               </code></pre>
