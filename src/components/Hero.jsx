@@ -6,7 +6,7 @@ export default function Hero({ t }) {
   return (
     <section id="home" className="hero-section">
       <div className="container hero-content">
-        <div className="hero-text-wrapper animate-fade-up">
+        <div className="hero-text-wrapper">
           <p className="greeting">{t.greeting}</p>
           <h1 className="hero-title">
             <span className="gradient-text">Muhammad Arief Nur Azziz</span> <br />
