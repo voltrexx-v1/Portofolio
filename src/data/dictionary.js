@@ -103,7 +103,7 @@ export const dict = {
       ]
     },
     portfolio: {
-      title: "Proyek Pilihan",
+      title: "Project Pilihan",
       subtitle: "Beberapa hasil karya saya",
       view_project: "Lihat Kode",
       projects: [
@@ -114,15 +114,15 @@ export const dict = {
           links: { github: "#", live: "#" }
         },
         {
-          title: "Website Portofolio Premium",
-          description: "Aplikasi web interaktif dan dinamis menggunakan React, menampilkan efek kaca transparan (glassmorphism), animasi modern, dan fitur dwibahasa otomatis (i18n).",
-          tech: ["React", "Vite", "Vanilla CSS"],
+          title: "Untitled",
+          description: "Coming soon...",
+          tech: ["Coming soon..."],
           links: { github: "#", live: "#" }
         },
         {
-          title: "API Manajemen Tugas (Task API)",
-          description: "API RESTful yang dibangun dengan Golang dan PostgreSQL. Menampilkan otentikasi pengguna, token JWT, dan operasi CRUD untuk tugas dan kategori.",
-          tech: ["Golang", "PostgreSQL", "JWT"],
+          title: "Untitled",
+          description: "Coming soon...",
+          tech: ["Coming soon..."],
           links: { github: "#", live: "#" }
         }
       ]
@@ -137,6 +137,6 @@ export const dict = {
       message: "Pesan",
       send: "Kirim Pesan"
     },
-    footer: "© 2026 Muhammad Arief Nur Azziz. Built with using React & Vite."
+    footer: "© 2026 Muhammad Arief. Built with using React & Vite."
   }
 };
