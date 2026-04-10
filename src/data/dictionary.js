@@ -67,7 +67,7 @@ export const dict = {
       message: "Message",
       send: "Send Message"
     },
-    footer: "© 2026 Muhammad Arief. Built with using React & Vite."
+    footer: "Copyright © 2026 Muhammad Arief."
   },
   id: {
     nav: {
@@ -137,6 +137,6 @@ export const dict = {
       message: "Pesan",
       send: "Kirim Pesan"
     },
-    footer: "© 2026 Muhammad Arief. Dibuat menggunakan React & Vite."
+    footer: "Copyright © 2026 Muhammad Arief."
   }
 };
