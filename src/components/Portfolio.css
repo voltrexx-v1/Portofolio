@@ -85,3 +85,19 @@
 .icon-link:hover {
   color: var(--accent-primary);
 }
+
+.primary-link {
+  background: var(--accent-gradient);
+  color: #fff !important;
+  padding: 6px 14px;
+  border-radius: 6px;
+  font-weight: 500;
+  font-size: 0.9rem;
+  transition: opacity var(--transition-fast), transform var(--transition-fast);
+}
+
+.primary-link:hover {
+  opacity: 0.85;
+  transform: translateY(-2px);
+  color: #fff !important;
+}

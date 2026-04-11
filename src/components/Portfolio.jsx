@@ -24,12 +24,16 @@ export default function Portfolio({ t }) {
                 </ul>
                 
                 <div className="project-links">
-                  <a href={project.links.github} className="icon-link" title="Source Code">
-                    <Code size={20} /> {t.view_project}
-                  </a>
-                  <a href={project.links.live} className="icon-link" title="Live Preview">
-                    <ExternalLink size={20} />
-                  </a>
+                  {project.links.live && project.links.live !== '#' && (
+                    <a href={project.links.live} className="icon-link primary-link" target="_blank" rel="noopener noreferrer" title="Live Demo">
+                      <ExternalLink size={20} /> {t.view_live || 'Live Demo'}
+                    </a>
+                  )}
+                  {project.links.github && project.links.github !== '#' && (
+                    <a href={project.links.github} className="icon-link" target="_blank" rel="noopener noreferrer" title="Source Code">
+                      <Code size={20} /> {t.view_project}
+                    </a>
+                  )}
                 </div>
               </div>
             </div>

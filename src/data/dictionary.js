@@ -35,13 +35,14 @@ export const dict = {
     portfolio: {
       title: "Featured Projects",
       subtitle: "Some of the work I've done",
-      view_project: "View Source",
+      view_project: "Source Code",
+      view_live: "Live Demo",
       projects: [
         {
           title: "Student Grading System",
-          description: "A robust Go (Golang) program that calculates student final grades based on assignments, midterms, and finals. Features robust error handling and CLI reporting.",
-          tech: ["Golang", "CLI"],
-          links: { github: "#", live: "#" }
+          description: "A web-based student grading system with user registration, login, and full CRUD management for student data. Calculate final grades based on assignments, midterms, and finals.",
+          tech: ["JavaScript", "React", "Vite"],
+          links: { github: "https://github.com/voltrexx-v1/Sistem-Penilaian-Siswa", live: "https://voltrexx-v1.github.io/Sistem-Penilaian-Siswa/#/login" }
         },
         {
           title: "Untitled",
@@ -105,13 +106,14 @@ export const dict = {
     portfolio: {
       title: "Project Pilihan",
       subtitle: "Beberapa hasil karya saya",
-      view_project: "Lihat Kode",
+      view_project: "Kode Sumber",
+      view_live: "Lihat Demo",
       projects: [
         {
           title: "Sistem Penilaian Siswa (Student Grading)",
-          description: "Program Go (Golang) handal yang menghitung nilai akhir siswa berdasarkan tugas, ujian tengah semester, dan ujian akhir. Menampilkan penanganan kesalahan (error handling) yang kuat dan pelaporan berbasis CLI.",
-          tech: ["Golang", "CLI"],
-          links: { github: "#", live: "#" }
+          description: "Sistem penilaian siswa berbasis web dengan fitur registrasi, login, dan manajemen data siswa lengkap (CRUD). Menghitung nilai akhir berdasarkan tugas, ujian tengah semester, dan ujian akhir.",
+          tech: ["JavaScript", "React", "Vite"],
+          links: { github: "https://github.com/voltrexx-v1/Sistem-Penilaian-Siswa", live: "https://voltrexx-v1.github.io/Sistem-Penilaian-Siswa/#/login" }
         },
         {
           title: "Untitled",
