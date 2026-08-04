@@ -13,7 +13,7 @@ export default function Hero({ t }) {
           </h1>
           <h2 className="hero-role">{t.role}</h2>
           <p className="hero-desc delay-100">{t.description}</p>
-          
+
           <div className="hero-cta delay-200">
             <a href="#portfolio" className="btn btn-primary">
               {t.cta_primary} <ArrowRight size={18} />
@@ -23,15 +23,15 @@ export default function Hero({ t }) {
             </a>
           </div>
         </div>
-        
+
         <div className="hero-visual">
           <div className="glow-orb"></div>
-          
+
           <div className="floating-badge badge-top-right glass-panel">
             <Code2 size={20} className="badge-icon" />
             <span>Clean Code</span>
           </div>
-          
+
           <div className="floating-badge badge-bottom-left glass-panel">
             <Database size={20} className="badge-icon" />
             <span>Scalable Apps</span>
@@ -50,11 +50,11 @@ export default function Hero({ t }) {
             </div>
             <div className="card-body">
               <pre><code>
-{`const developer = {
+                {`const developer = {
   name: "Muhammad Arief Nur Azziz",
   role: "Cyber Security & Web Developer",
   passion: "Penetration Testing",
-  status: "Available"
+  status: "Learning"
 };`}
               </code></pre>
             </div>
