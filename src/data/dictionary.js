@@ -23,20 +23,20 @@ export const dict = {
       title: "Skills & Languages",
       subtitle: "Programming Language I work with",
       items: [
-        { name: "Golang", level: 75, category: "Backend" },
-        { name: "JavaScript", level: 60, category: "Frontend/Backend" },
-        { name: "React / Vite", level: 40, category: "Frontend" },
-        { name: "HTML & CSS", level: 95, category: "Frontend" },
+        { name: "Golang", level: 46, category: "Backend" },
+        { name: "JavaScript", level: 34, category: "Frontend/Backend" },
+        { name: "React / Vite", level: 27, category: "Frontend" },
+        { name: "HTML & CSS", level: 78, category: "Frontend" },
         { name: "Python", level: 35, category: "Backend" },
-        { name: "SQL / PostgreSQL", level: 15, category: "Database" },
-        { name: "Git & GitHub", level: 65, category: "Tools" }
+        { name: "SQL / PostgreSQL", level: 28, category: "Database" },
+        { name: "Git & GitHub", level: 68, category: "Tools" }
       ]
     },
     portfolio: {
       title: "Featured Projects",
       subtitle: "Some of the work I've done",
       view_project: "Source Code",
-      view_live: "Live Demo",
+      view_live: "See Website",
       projects: [
         {
           title: "Student Grading System",
@@ -94,20 +94,20 @@ export const dict = {
       title: "Keahlian & Bahasa",
       subtitle: "Bahasa Pemrograman yang saya kuasai",
       items: [
-        { name: "Golang", level: 75, category: "Backend" },
-        { name: "JavaScript", level: 60, category: "Frontend/Backend" },
-        { name: "React / Vite", level: 40, category: "Frontend" },
-        { name: "HTML & CSS", level: 95, category: "Frontend" },
+        { name: "Golang", level: 46, category: "Backend" },
+        { name: "JavaScript", level: 34, category: "Frontend/Backend" },
+        { name: "React / Vite", level: 27, category: "Frontend" },
+        { name: "HTML & CSS", level: 78, category: "Frontend" },
         { name: "Python", level: 35, category: "Backend" },
-        { name: "SQL / PostgreSQL", level: 15, category: "Database" },
-        { name: "Git & GitHub", level: 65, category: "Alat" }
+        { name: "SQL / PostgreSQL", level: 28, category: "Database" },
+        { name: "Git & GitHub", level: 68, category: "Alat" }
       ]
     },
     portfolio: {
       title: "Project Pilihan",
       subtitle: "Beberapa hasil karya saya",
       view_project: "Kode Sumber",
-      view_live: "Lihat Demo",
+      view_live: "Lihat Website",
       projects: [
         {
           title: "Sistem Penilaian Siswa (Student Grading)",
