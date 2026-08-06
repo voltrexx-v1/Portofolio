@@ -45,10 +45,10 @@ export const dict = {
           links: { github: "https://github.com/voltrexx-v1/Sistem-Penilaian-Siswa", live: "https://voltrexx-v1.github.io/Sistem-Penilaian-Siswa/#/login" }
         },
         {
-          title: "Untitled",
-          description: "Coming soon...",
-          tech: ["Coming soon..."],
-          links: { github: "#", live: "#" }
+          title: "Culinary Recipe Management and Search System",
+          description: "ResepKu is a Command Line Interface (CLI)-based system used to manage and search for recipe ideas based on available ingredients.",
+          tech: ["Go"],
+          links: { github: "https://github.com/voltrexx-v1/Sistem-Manajemen-dan-Pencarian-Resep-Kuliner.git", live: "#" }
         },
         {
           title: "Untitled",
@@ -116,10 +116,10 @@ export const dict = {
           links: { github: "https://github.com/voltrexx-v1/Sistem-Penilaian-Siswa", live: "https://voltrexx-v1.github.io/Sistem-Penilaian-Siswa/#/login" }
         },
         {
-          title: "Untitled",
-          description: "Segera hadir...",
-          tech: ["Segera hadir..."],
-          links: { github: "#", live: "#" }
+          title: "Sistem Manajemen dan Pencarian Resep Kuliner",
+          description: "ResepKu adalah sistem berbasis Command Line Interface (CLI) yang digunakan untuk mengelola dan mencari ide resep berdasarkan bahan yang tersedia.",
+          tech: ["Go"],
+          links: { github: "https://github.com/voltrexx-v1/Sistem-Manajemen-dan-Pencarian-Resep-Kuliner.git", live: "#" }
         },
         {
           title: "Untitled",
