@@ -52,6 +52,8 @@
   line-height: 1.6;
   margin-bottom: 24px;
   flex-grow: 1;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .project-tech {
