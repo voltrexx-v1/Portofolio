@@ -51,9 +51,9 @@ export const dict = {
           links: { github: "https://github.com/voltrexx-v1/Sistem-Manajemen-dan-Pencarian-Resep-Kuliner.git", live: "#" }
         },
         {
-          title: "Untitled",
-          description: "Coming soon...",
-          tech: ["Coming soon..."],
+          title: "Employee Attendance at PT United Tractors Tbk",
+          description: "Coming Soon...",
+          tech: ["PHP", "MySQL", "Laravel", "Flutter"],
           links: { github: "#", live: "#" }
         }
       ]
@@ -122,9 +122,9 @@ export const dict = {
           links: { github: "https://github.com/voltrexx-v1/Sistem-Manajemen-dan-Pencarian-Resep-Kuliner.git", live: "#" }
         },
         {
-          title: "Untitled",
+          title: "Absensi Karyawan PT. United Tractors Tbk",
           description: "Segera hadir...",
-          tech: ["Segera hadir..."],
+          tech: ["PHP", "MySQL", "Laravel", "Flutter"],
           links: { github: "#", live: "#" }
         }
       ]

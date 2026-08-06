@@ -1,6 +1,6 @@
 import React from 'react';
 import './Skills.css';
-import { SiGo, SiJavascript, SiReact, SiVite, SiHtml5, SiCss3, SiPython, SiPostgresql, SiGit, SiGithub } from 'react-icons/si';
+import { SiGo, SiJavascript, SiReact, SiVite, SiHtml5, SiCss, SiPython, SiPostgresql, SiGit, SiGithub } from 'react-icons/si';
 
 const getSkillIcon = (name) => {
   if (name.includes('Golang')) return <SiGo className="skill-icon" style={{ color: '#00ADD8' }} />;
@@ -14,7 +14,7 @@ const getSkillIcon = (name) => {
   if (name.includes('HTML & CSS')) return (
     <div className="skill-icons-group">
       <SiHtml5 className="skill-icon" style={{ color: '#E34F26' }} />
-      <SiCss3 className="skill-icon" style={{ color: '#1572B6' }} />
+      <SiCss className="skill-icon" style={{ color: '#1572B6' }} />
     </div>
   );
   if (name.includes('Python')) return <SiPython className="skill-icon" style={{ color: '#3776AB' }} />;
