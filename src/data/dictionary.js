@@ -105,6 +105,24 @@ export const dict = {
           description: "Coming Soon...",
           tech: ["HTML", "PHP", "MySQL", "Laravel", "Flutter", "Dart", "CMake", "Python", "C++"],
           links: { github: "#", live: "#" }
+        },
+        {
+          title: "Untitled",
+          description: "Coming Soon...",
+          tech: ["Coming Soon..."],
+          links: { github: "#", live: "#" }
+        },
+        {
+          title: "Untitled",
+          description: "Coming Soon...",
+          tech: ["Coming Soon..."],
+          links: { github: "#", live: "#" }
+        },
+        {
+          title: "Untitled",
+          description: "Coming Soon...",
+          tech: ["Coming Soon..."],
+          links: { github: "#", live: "#" }
         }
       ]
     },
@@ -225,6 +243,24 @@ export const dict = {
           title: "Absensi Karyawan PT United Tractors Tbk",
           description: "Segera hadir...",
           tech: ["HTML", "PHP", "MySQL", "Laravel", "Flutter", "Dart", "CMake", "Python", "C++"],
+          links: { github: "#", live: "#" }
+        },
+        {
+          title: "Untitled",
+          description: "Segera Hadir...",
+          tech: ["Segera Hadir..."],
+          links: { github: "#", live: "#" }
+        },
+        {
+          title: "Untitled",
+          description: "Segera Hadir...",
+          tech: ["Segera Hadir..."],
+          links: { github: "#", live: "#" }
+        },
+        {
+          title: "Untitled",
+          description: "Segera Hadir...",
+          tech: ["Segera Hadir..."],
           links: { github: "#", live: "#" }
         }
       ]
