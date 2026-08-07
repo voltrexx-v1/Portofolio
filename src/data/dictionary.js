@@ -41,7 +41,7 @@ export const dict = {
         {
           role: "IT Support Intern",
           company: "PT United Tractors Tbk Site Tanjung",
-          period: "June 2025 - December 2025",
+          period: "June 2024 - December 2024",
           description: "During my internship at PT United Tractors Tbk, I was involved in various IT Support activities, including installing Windows and Microsoft Office, troubleshooting computers and networks, configuring MikroTik and TP-Link routers, deploying devices, managing domains and servers, installing printers, activating software, as well as asset management and system administration. This experience strengthened my ability to handle technical issues effectively and provide support for the company's IT operations."
         }
       ]
@@ -51,9 +51,29 @@ export const dict = {
       subtitle: "My professional achievements",
       items: [
         {
-          name: "Certification Name",
-          issuer: "Issuing Organization",
-          date: "Year"
+          name: "Introduction to Cybersecurity",
+          issuer: "Cisco Networking Academy",
+          date: "2026"
+        },
+        {
+          name: "Describe Cloud Computing",
+          issuer: "Microsoft Learn",
+          date: "2026"
+        },
+        {
+          name: "Introduction to Microsoft Defender XDR Threat Protection",
+          issuer: "Microsoft Learn",
+          date: "2026"
+        },
+        {
+          name: "Basic Computer Networks",
+          issuer: "ID-Networkers (IDN.ID)",
+          date: "2023"
+        },
+        {
+          name: "Mikrotik Basics",
+          issuer: "ID-Networkers (IDN.ID)",
+          date: "2023"
         }
       ]
     },
@@ -137,7 +157,7 @@ export const dict = {
         {
           role: "IT Support PKL",
           company: "PT United Tractors Tbk Site Tanjung",
-          period: "Juni 2025 - Desember 2025",
+          period: "Juni 2024 - Desember 2024",
           description: "Selama PKL di PT United Tractors Tbk, saya terlibat dalam berbagai aktivitas IT Support, meliputi instalasi Windows dan Microsoft Office, troubleshooting komputer serta jaringan, konfigurasi router MikroTik dan TP-Link, deployment perangkat, pengelolaan domain dan server, instalasi printer, aktivasi perangkat lunak, hingga pengelolaan aset dan administrasi sistem. Pengalaman ini memperkuat kemampuan saya dalam menangani permasalahan teknis secara efektif dan memberikan dukungan terhadap operasional IT perusahaan."
         }
       ]
@@ -147,9 +167,29 @@ export const dict = {
       subtitle: "Pencapaian profesional saya",
       items: [
         {
-          name: "Nama Sertifikasi",
-          issuer: "Organisasi Penerbit",
-          date: "Tahun"
+          name: "Pengenalan Keamanan Siber",
+          issuer: "Cisco Networking Academy",
+          date: "2026"
+        },
+        {
+          name: "Mengenal Komputasi Awan",
+          issuer: "Microsoft Learn",
+          date: "2026"
+        },
+        {
+          name: "Pengenalan Microsoft Defender XDR Threat Protection",
+          issuer: "Microsoft Learn",
+          date: "2026"
+        },
+        {
+          name: "Dasar Jaringan Komputer",
+          issuer: "ID-Networkers (IDN.ID)",
+          date: "2023"
+        },
+        {
+          name: "Dasar Mikrotik",
+          issuer: "ID-Networkers (IDN.ID)",
+          date: "2023"
         }
       ]
     },
