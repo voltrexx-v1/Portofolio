@@ -107,6 +107,12 @@ npm run build
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
 ## 📬 Contact
 
 GitHub:
@@ -116,10 +122,4 @@ Portfolio:
 https://voltrexx-v1.github.io/Portofolio/
 
 Instagram:
-@mhmmd.arazz
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
+https://www.instagram.com/mhmmd.arazz
