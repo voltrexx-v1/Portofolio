@@ -91,6 +91,8 @@
 .timeline-content p {
   color: var(--text-secondary);
   line-height: 1.6;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 @media screen and (max-width: 768px) {
