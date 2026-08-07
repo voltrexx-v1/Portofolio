@@ -7,7 +7,7 @@ export default function Contact({ t }) {
     <section id="contact" className="contact-section scroll-reveal">
       <div className="container">
         <h2 className="section-title">
-          <span className="gradient-text">04.</span> {t.title}
+          <span className="gradient-text">06.</span> {t.title}
         </h2>
         <p className="contact-subtitle">{t.subtitle}</p>
         
