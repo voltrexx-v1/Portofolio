@@ -26,6 +26,8 @@ export default function Navbar({ lang, setLang, theme, setTheme, t }) {
     { name: t.home, href: '#home' },
     { name: t.about, href: '#about' },
     { name: t.skills, href: '#skills' },
+    { name: t.experience, href: '#experience' },
+    { name: t.certifications, href: '#certifications' },
     { name: t.portfolio, href: '#portfolio' },
     { name: t.contact, href: '#contact' },
   ];

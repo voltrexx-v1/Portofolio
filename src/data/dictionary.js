@@ -4,6 +4,8 @@ export const dict = {
       home: "Home",
       about: "About",
       skills: "Skills",
+      experience: "Experience",
+      certifications: "Certifications",
       portfolio: "Projects",
       contact: "Contact"
     },
@@ -30,6 +32,29 @@ export const dict = {
         { name: "Python", level: 35, category: "Backend" },
         { name: "MySQL", level: 28, category: "Database" },
         { name: "Git & GitHub", level: 68, category: "Tools" }
+      ]
+    },
+    experience: {
+      title: "Experience",
+      subtitle: "My professional journey",
+      items: [
+        {
+          role: "IT Support Intern",
+          company: "PT United Tractors Tbk Site Tanjung",
+          period: "June 2025 - December 2025",
+          description: "During my internship at PT United Tractors Tbk, I was involved in various IT Support activities, including installing Windows and Microsoft Office, troubleshooting computers and networks, configuring MikroTik and TP-Link routers, deploying devices, managing domains and servers, installing printers, activating software, as well as asset management and system administration. This experience strengthened my ability to handle technical issues effectively and provide support for the company's IT operations."
+        }
+      ]
+    },
+    certifications: {
+      title: "Certifications",
+      subtitle: "My professional achievements",
+      items: [
+        {
+          name: "Certification Name",
+          issuer: "Issuing Organization",
+          date: "Year"
+        }
       ]
     },
     portfolio: {
@@ -75,6 +100,8 @@ export const dict = {
       home: "Beranda",
       about: "Tentang",
       skills: "Keahlian",
+      experience: "Pengalaman",
+      certifications: "Sertifikasi",
       portfolio: "Project",
       contact: "Kontak"
     },
@@ -101,6 +128,29 @@ export const dict = {
         { name: "Python", level: 35, category: "Backend" },
         { name: "MySQL", level: 28, category: "Database" },
         { name: "Git & GitHub", level: 68, category: "Alat" }
+      ]
+    },
+    experience: {
+      title: "Pengalaman",
+      subtitle: "Perjalanan karir profesional saya",
+      items: [
+        {
+          role: "IT Support PKL",
+          company: "PT United Tractors Tbk Site Tanjung",
+          period: "Juni 2025 - Desember 2025",
+          description: "Selama PKL di PT United Tractors Tbk, saya terlibat dalam berbagai aktivitas IT Support, meliputi instalasi Windows dan Microsoft Office, troubleshooting komputer serta jaringan, konfigurasi router MikroTik dan TP-Link, deployment perangkat, pengelolaan domain dan server, instalasi printer, aktivasi perangkat lunak, hingga pengelolaan aset dan administrasi sistem. Pengalaman ini memperkuat kemampuan saya dalam menangani permasalahan teknis secara efektif dan memberikan dukungan terhadap operasional IT perusahaan."
+        }
+      ]
+    },
+    certifications: {
+      title: "Sertifikasi",
+      subtitle: "Pencapaian profesional saya",
+      items: [
+        {
+          name: "Nama Sertifikasi",
+          issuer: "Organisasi Penerbit",
+          date: "Tahun"
+        }
       ]
     },
     portfolio: {

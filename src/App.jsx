@@ -4,6 +4,8 @@ import Hero from './components/Hero';
 import About from './components/About';
 import Skills from './components/Skills';
 import Portfolio from './components/Portfolio';
+import Experience from './components/Experience';
+import Certifications from './components/Certifications';
 import Contact from './components/Contact';
 import { dict } from './data/dictionary';
 import './App.css';
@@ -53,6 +55,8 @@ function App() {
         <Hero t={currentDict.hero} />
         <About t={currentDict.about} />
         <Skills t={currentDict.skills} />
+        <Experience t={currentDict.experience} />
+        <Certifications t={currentDict.certifications} />
         <Portfolio t={currentDict.portfolio} />
         <Contact t={currentDict.contact} />
       </main>
