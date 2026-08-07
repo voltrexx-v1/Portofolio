@@ -6,7 +6,7 @@ export default function Portfolio({ t }) {
     <section id="portfolio" className="portfolio-section scroll-reveal">
       <div className="container">
         <h2 className="section-title">
-          <span className="gradient-text">03.</span> {t.title}
+          <span className="gradient-text">05.</span> {t.title}
         </h2>
         <p className="portfolio-subtitle">{t.subtitle}</p>
         
