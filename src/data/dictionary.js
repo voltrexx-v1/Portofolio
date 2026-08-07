@@ -28,7 +28,7 @@ export const dict = {
         { name: "React / Vite", level: 27, category: "Frontend" },
         { name: "HTML & CSS", level: 78, category: "Frontend" },
         { name: "Python", level: 35, category: "Backend" },
-        { name: "SQL / PostgreSQL", level: 28, category: "Database" },
+        { name: "MySQL", level: 28, category: "Database" },
         { name: "Git & GitHub", level: 68, category: "Tools" }
       ]
     },
@@ -99,7 +99,7 @@ export const dict = {
         { name: "React / Vite", level: 27, category: "Frontend" },
         { name: "HTML & CSS", level: 78, category: "Frontend" },
         { name: "Python", level: 35, category: "Backend" },
-        { name: "SQL / PostgreSQL", level: 28, category: "Database" },
+        { name: "MySQL", level: 28, category: "Database" },
         { name: "Git & GitHub", level: 68, category: "Alat" }
       ]
     },
@@ -122,7 +122,7 @@ export const dict = {
           links: { github: "https://github.com/voltrexx-v1/Sistem-Manajemen-dan-Pencarian-Resep-Kuliner.git", live: "#" }
         },
         {
-          title: "Absensi Karyawan PT. United Tractors Tbk",
+          title: "Absensi Karyawan PT United Tractors Tbk",
           description: "Segera hadir...",
           tech: ["PHP", "MySQL", "Laravel", "Flutter"],
           links: { github: "#", live: "#" }
