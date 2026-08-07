@@ -74,6 +74,11 @@ export const dict = {
           name: "Mikrotik Basics",
           issuer: "ID-Networkers (IDN.ID)",
           date: "2023"
+        },
+        {
+          name: "LKS South Kalimantan Province Vocational High School – IT Network System Administration (Participant)",
+          issuer: "South Kalimantan Provincial Office of Education and Culture",
+          date: "2024"
         }
       ]
     },
@@ -98,7 +103,7 @@ export const dict = {
         {
           title: "Employee Attendance at PT United Tractors Tbk",
           description: "Coming Soon...",
-          tech: ["PHP", "MySQL", "Laravel", "Flutter"],
+          tech: ["HTML", "PHP", "MySQL", "Laravel", "Flutter", "Dart", "CMake", "Python", "C++"],
           links: { github: "#", live: "#" }
         }
       ]
@@ -190,6 +195,11 @@ export const dict = {
           name: "Dasar Mikrotik",
           issuer: "ID-Networkers (IDN.ID)",
           date: "2023"
+        },
+        {
+          name: "Peserta Lomba Kompetensi Siswa (LKS) SMK Bidang IT Network System Administration",
+          issuer: "Dinas Pendidikan dan Kebudayaan Provinsi Kalimantan Selatan",
+          date: "2024"
         }
       ]
     },
@@ -214,7 +224,7 @@ export const dict = {
         {
           title: "Absensi Karyawan PT United Tractors Tbk",
           description: "Segera hadir...",
-          tech: ["PHP", "MySQL", "Laravel", "Flutter"],
+          tech: ["HTML", "PHP", "MySQL", "Laravel", "Flutter", "Dart", "CMake", "Python", "C++"],
           links: { github: "#", live: "#" }
         }
       ]
